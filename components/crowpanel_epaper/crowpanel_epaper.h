@@ -11,8 +11,8 @@ static const uint8_t COMMAND_END_MARKER = 0xFF;
 static const uint8_t DELAY_FLAG = 0x80;
 static const uint8_t ARG_COUNT_MASK = 0x7F;
 
-static const uint16_t NATIVE_WIDTH_2P9IN = 128; 
-static const uint16_t NATIVE_HEIGHT_2P9IN = 296;
+static const uint16_t NATIVE_WIDTH_2P9IN = 296; 
+static const uint16_t NATIVE_HEIGHT_2P9IN = 128;
 
 static const uint16_t NATIVE_WIDTH_4P2IN = 400; 
 static const uint16_t NATIVE_HEIGHT_4P2IN = 300;
